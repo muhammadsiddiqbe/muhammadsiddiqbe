@@ -22,4 +22,4 @@ I am Muhammadsiddiq 19 years old DevOps Enineer from Uzbekistan.
 ### My profiles on websites:
 - Linkedin: https://www.linkedin.com/in/muhammadsiddiqbe/
 - dev.to: https://dev.to/muhammadsiddiq
-- Telegram: t.me/qwtrb
+- Telegram: https://t.me/qwtrb
