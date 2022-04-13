@@ -3,7 +3,7 @@
 I am Muhammadsiddiq 19 years old DevOps Enineer from Uzbekistan.
 
 - 🔭 I’m currently working on my English and Russian.
-- 🌱 I’m currently learning ... Kubernetes and Docker best practices
+- 🌱 I’m currently learning ... Kubernetes and AWS
 - 📫 How to reach me:
     telegram: t.me/qwtrb
     phone: +998(94) 315 45 65
