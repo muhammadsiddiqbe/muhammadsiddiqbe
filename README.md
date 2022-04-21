@@ -7,7 +7,7 @@ I am Muhammadsiddiq 19 years old DevOps Enineer from Uzbekistan.
 - 📫 How to reach me:
     telegram: t.me/qwtrb
     phone: +998(94) 315 45 65
-- 😄 Pronouns: Moohammaad seed deeq
+- 😄 Pronouns: Moohammaad seed deekq
 - ⚙️ Tools I like:
     devhints.io
     docker.io
