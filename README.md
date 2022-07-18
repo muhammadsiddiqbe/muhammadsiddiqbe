@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Muhammadsiddiq 19 years old DevOps Enineer from Uzbekistan.
+I am Muhammadsiddiq 19 years old DevOps Engineer from Uzbekistan.
 
 - 🌱 I’m currently learning ... Kubernetes and Azure
 - 📫 How to reach me:
